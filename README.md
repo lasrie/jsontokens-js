@@ -8,6 +8,8 @@
 
 node.js library for signing, decoding, and verifying JSON Web Tokens (JWTs)
 
+Forked to change native crypto library to crypto-browserify to use in angular
+
 ### Installation
 
 ```
