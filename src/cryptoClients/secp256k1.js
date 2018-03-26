@@ -1,7 +1,7 @@
 'use strict'
 
 import { ec as EC } from 'elliptic'
-import { createHash } from 'crypto'
+import { createHash } from 'crypto-browserify'
 import KeyEncoder from 'key-encoder'
 import { isHexadecimal } from 'validator'
 
