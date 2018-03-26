@@ -52,6 +52,7 @@
     "base64url": "^2.0.0",
     "elliptic": "^6.3.2",
     "key-encoder": "^1.1.6",
-    "validator": "^7.0.0"
+    "validator": "^7.0.0",
+    "crypto-browserify": "^3.12.0",
   }
 }
